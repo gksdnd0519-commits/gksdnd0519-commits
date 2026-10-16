@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="gksdnd0519의 떡잎마을" width="100%">
+  <img src="assets/jjanggu-frame.svg" alt="gksdnd0519의 떡잎마을" width="100%">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jua&size=24&pause=1200&color=E53935&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95!+%EB%82%98%EB%8A%94+gksdnd0519+%EC%95%BC~;%EC%A7%B1%EA%B5%AC%EC%B2%98%EB%9F%BC+%EC%97%89%EB%9A%B1%ED%95%9C+%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A1%9C;%EC%A7%B1%EC%95%84%EC%B2%98%EB%9F%BC+%EB%AC%B4%EB%9F%AD%EB%AC%B4%EB%9F%AD+%EC%84%B1%EC%9E%A5+%EC%A4%91!" alt="소개 문구">
-</p>
-
-<p align="center">
-  <img src="assets/jjanggu.jpg" alt="짱구와 친구들" width="90%">
 </p>
 
 <p align="center">
