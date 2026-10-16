@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/jjanggu.jpg" alt="짱구와 친구들" width="90%">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gksdnd0519-commits&label=%EB%96%A1%EC%9E%8E%EB%A7%88%EC%9D%84+%EB%B0%A9%EB%AC%B8%EC%9E%90&color=e53935&style=flat" alt="방문자 수">
 </p>
 
